@@ -1,4 +1,6 @@
-Hey there! I'm Daniel, and at Moonshot with my brother Michael, we're aiming to predict the future of everything and make JARVIS a reality!
+<a href="" style="text-align: center"><img src="https://github.com/danielhanchen/hyperlearn/blob/master/Images/just%20moonshot%20reound%20logo.png" alt="Moonshot Logo" align="center"/></a>
+
+<h3 align="center"> Hey there! I'm Daniel, and at Moonshot with my brother Michael, we're aiming to predict the future of everything and make JARVIS a reality! </h3>
 
 - 😀 Moonshot Health to predict lifespans, cancer and disease rates.
 - 📈 Moonshot Finance to predict stock prices and the next recession.
