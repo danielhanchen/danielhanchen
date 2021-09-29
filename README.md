@@ -1,5 +1,4 @@
 Hey there! I'm Daniel, and at Moonshot with my brother Michael, we're aiming to predict the future of everything and make JARVIS a reality!
-We're creating a full blown Earth 🌏 simulation, and focusing on:
 
 - 😀 Moonshot Health to predict lifespans, cancer and disease rates.
 - 📈 Moonshot Finance to predict stock prices and the next recession.
