@@ -1,2 +1,2 @@
 Hey there!
-Email: danielhanchen@gmail.com
+My email is my github handle at gmail dot com
