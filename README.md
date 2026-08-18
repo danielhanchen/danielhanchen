@@ -1,6 +1,6 @@
 Hey there!
 
-My email is [my-github-handle]@gmail.com
+My email is danielhanchen@gmail.com
 
 My linkedin: https://www.linkedin.com/in/danielhanchen/
 
