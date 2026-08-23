@@ -1,7 +1,11 @@
-Hey there!
+Hey!
+Our goal is to make local AI accessible to all.
+Try out Unsloth Desktop!
 
-My email is [my-github-handle]@gmail.com
+My email is [my-first-name]@unsloth[dot]ai
 
-My linkedin: https://www.linkedin.com/in/danielhanchen/
+My Linkedin: https://www.linkedin.com/in/danielhanchen/
 
-Our goal is to make AI accessible to everyone, and make LLMs able to plan and reason!
+Our Twitter: https://x.com/unslothai
+
+My Twitter: https://x.com/danielhanchen
