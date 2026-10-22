@@ -2,7 +2,7 @@ Hey!
 Our goal is to make local AI accessible to all.
 Try out Unsloth Desktop!
 
-My email is [my-first-name]@unsloth[dot]ai
+My email is [first]@unsloth[dot]ai
 
 My Linkedin: https://www.linkedin.com/in/danielhanchen/
 
